@@ -1,0 +1,1578 @@
+
+@media (max-width: 1450px) {
+    
+
+  .hero__item {
+      margin-right: 50px;
+  }
+  
+  .gall {
+      padding-bottom: 14px;
+  }
+  
+  .gall-container {
+      padding: 0 50px;
+  }
+  
+  .gall__body {
+    
+      padding-bottom: 49px;
+  }
+  
+  .gall__info {
+      margin-right: 50px;
+  }
+  
+  .swiper-wrapper-gall {
+      height: 610px;
+    }
+  
+  .swiper__nav-gall {
+      padding-left: 0px;
+      width: 133px;
+  }
+  
+  .gall__text {
+      margin: 0;
+      padding-bottom: 55px;
+  }
+  
+  .Catalog {
+      padding-top: 88px;
+    }
+  
+  .conainer-catalog {
+      padding: 0 50px;
+  }
+  
+  .catalog__title {
+      margin-right: 41px;
+  }
+  
+  .catalog__list_lang {
+      padding-top: 10px;
+  }
+  
+  .catalog__choise_lang {
+      margin-bottom: 18px;
+  }
+  
+  .catalog__item_lang:not(:last-child) {
+      margin-right: 51px;
+  }
+  
+  .catalog__img_persona {
+      padding-bottom: 274px;
+  }
+  
+  .catalog__persona,
+  .catalog__persona-one,
+  .catalog__persona-two,
+  .catalog__persona-three,
+  .catalog__persona-four,
+  .catalog__persona-five {
+      padding-right: 25px;
+  }
+  
+  
+  
+  .catalog__subtitle_lang {
+      margin-bottom: 39px;
+  }
+  
+  .catalog__acardion {
+      padding-left: 25px;
+  }
+  
+  .catalog__acardion_list {
+      max-height: 434px;
+      padding: 25px 0;
+      margin-right: 0;
+      align-content: space-between;
+  }
+  
+  .catalog__acardion_list li {
+      margin-right: 20px;
+  
+  }
+  
+  .catalog__acardion-arrow {
+      padding: 4px 0 0 0;
+  }
+  
+  .catalog__acardion_list li{
+      margin: 0;
+  }
+  
+  .ui-accordion .ui-accordion-header {
+      padding: 28px 0 27px 0;
+  }
+  
+  .container-event {
+      padding: 0 50px;
+  }
+  .event__title {
+      
+      margin-bottom: 24px;
+  }
+
+  .event-swiper {
+      margin: 0 -13.5px;
+  }
+
+  .event-swiper-slide {
+      padding: 0 13.5px;
+  }
+
+  .event-swiper-slide__img {
+      padding-bottom: 200px;
+  }
+
+  .event-swiper-slide__info-body {
+      padding: 0 15px 0px 33px;
+  }
+  .event-swiper-slide__title {
+      margin-bottom: 2px;
+      line-height: 33px;
+  }
+  
+  .event-swiper-slide__adress {
+      padding: 14px 16px 6px;
+  }
+  .event-swiper-slide__subtitle {
+      margin-bottom: 32px;
+      padding-right: 20px;
+  }
+
+  .event-swiper-slide__span {
+    padding-left: 33px;
+  }
+
+  .event-swiper-slide__link {
+      margin-bottom: 48px;
+  }
+
+  .catalog__img_persona {
+      background-image: url(/img/catalog/x-zag1024.png);
+  }
+
+  .edition {
+      padding-top: 90px;
+      padding-bottom: 80px;
+  }
+  
+  .container-edition {
+      padding: 0 50px;
+  }
+  .edition__parametr {
+      margin-right: 11px;
+  }
+  .edition__swiper {
+      padding-top: 28px;
+  }
+
+  .swiper-edition {
+      padding-left: 0px;
+  }
+
+  .swiper__nav-edition {
+      margin-bottom: 28px;
+  }
+  
+  .edition-card__img {
+      height: 320px;
+     
+      margin-bottom: 18px;
+
+  }
+  .edition-card__info {
+      margin-bottom: 19px;
+  }
+  
+  .container-project {
+      padding: 0 50px;
+  }
+
+  .swiper-project {
+      margin: 0 25px;
+  }
+    .contact-container {
+    padding: 0 50px;
+  }
+
+.contact__left {
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.contact__form-connection {
+    flex-direction: column;
+    width: 100%;
+}
+
+.contact__form {
+    padding-top: 37px;
+    width: 100%;   
+}
+
+.contact__btn {
+    width: 343px;
+}
+
+.contact__connection {
+    padding-top: 34px;
+}
+
+
+
+
+.container-footer {
+    padding: 0 50px;
+}
+
+.footer__item:not(:last-child) {
+    margin-right: 30px;
+  }
+  }
+  
+  @media (max-width: 1200px) {
+      .header-container {
+          display: flex;
+          padding: 0 50px;
+      }
+  
+      .header__logo { 
+          margin-right: 0;
+      }
+  
+      .hero__background1{
+      background-image: url(/img/fone-hero1024.png);
+      }
+  
+      .hero__background2{
+          background-image: url(/img/hero-fone2-1024.png);
+      }
+      .hero__background3{
+          background-image: url(/img/hero-fone3-1024.png);
+      }
+  
+  
+      .header__item:not(:last-child) {
+      margin-bottom: 45px;
+      }
+  
+      .header__body {
+      display: block;
+      position: absolute; 
+      left: 0;
+      top: -200vh;
+      margin: 0;
+      padding-left: 50px;
+      padding-top: 96px;
+      height: 100%;
+      width: 100%;
+      background-color:rgba(0,0,0,0.9);
+      z-index: 3;
+      opacity: 0;
+      transition: top 0.5s ease , opacity .5s ease;
+  }
+  
+  .hero__button {
+      margin-bottom: 0;
+  }
+  
+  .burger-open.header__body  {
+      opacity: 1;
+      top: 0px;
+  }
+  
+  
+  .burger {
+      position: relative;
+      height: 100%;
+      width: 100%;
+      z-index: 4;
+  }
+  
+  .header__burger {
+      display: block;
+      width: 36px;
+      height: 30px;
+  }
+  
+  
+  .burger-active .header__burger_line-top {
+      transform: rotate(-45deg);
+      top: 11px;
+      width: 100%;
+  }
+  
+  .burger-active .header__burger_line-bottom {
+      transform: rotate(45deg);
+      width: 100%;
+      top: 11px;
+  }
+  
+  .burger-active .header__burger_line-midle {
+  opacity: 0;
+  }
+  
+  .header__burger_line-top,
+  .header__burger_line-midle, 
+  .header__burger_line-bottom {
+      position: absolute;
+      width: 100%;
+      height: 3px;
+      background-color: #fff;
+      top: 0px;
+      left: 0;
+      transition: all .5s ease;
+  }
+  
+  .header__burger_line-midle {
+      top: 11px;
+      width: 28px;
+  }
+  
+  .header__burger_line-bottom {
+      top: 24px;
+      width: 24px;
+  }
+  
+  .header__list {
+      flex-direction: column;
+      margin-bottom: 100px;
+  }
+  
+  .header__item {
+      margin-bottom: 25px;
+  }
+  
+  .header__exit {
+      display: inline-block;
+      padding: 20px 80px;
+      margin-bottom: 95px;
+      border: 2px solid var(--color-purple);
+      border-radius: 100px;
+  }
+  
+  .container-hero-bottom {
+      padding: 0 50px;
+  }
+  
+  .hero {
+      background-image: url(../img/fone-hero1024.png);
+  }
+  
+  .hero__body {
+      padding-top: 112px;
+  }
+  
+  .hero__top {
+      background-color: transparent;
+      margin-bottom: 64px;
+  }
+  
+  .hero__title {
+      margin-bottom: 14px;
+  }
+  
+  .hero__subtitle {
+      margin-bottom: 133px;
+  }
+  
+  .hero__btn {
+      margin-bottom: 113px;
+  }
+  
+  .hero__list {
+      display: none;
+  }
+  
+  .hero__find  {
+      display: none;
+  }
+  
+  .find-point-icon {
+      opacity: 1;
+      transition: opacity 2s ease;
+  }
+  
+  
+  
+  .find-point-icon-active .find-point-icon{
+      opacity: 0;
+  }
+  
+  .find-point-search {
+      position: relative;
+      opacity: 0 ;
+      z-index: 2;
+      width: 31px;
+      height: 31px;
+  }
+  
+  .find-point__form {
+      position: absolute;
+      z-index: 1;
+      transition: transform .5s ease;   
+  }
+  .find-point__form input {
+      transition: transform .5s ease;   
+      transform: translateX(300px);
+  }
+  
+  .find-point__form-active {
+      display: flex;
+      position: absolute;
+      transform: translateX(-200px);
+  }
+  
+  .find-point__form-active input{
+      transform: translateX(0px);
+      display: block;
+  }
+  
+  .hero__find-point {
+      display: flex;
+  }
+  
+  .find-point__body {
+      display: flex;
+      flex-direction: row-reverse;
+  }
+  
+  .header-find-input {
+      background-color: transparent;
+      border-bottom: 1px solid #DCDCDD;
+      color: #DCDCDD;
+  }
+  .hero_button-icon {
+      background-color: transparent;
+  }
+  
+  .hero-list__choice {
+      top: 29px;
+  }
+  
+  .hero__subtitle {
+      width: 661px;
+      font-size: 18px;
+  }
+
+  .gall__info {
+      max-width: 280px;
+      width: auto;
+  }
+  
+  .container-info-body {
+      padding: 0 50px;
+  }
+  
+  .list-zero__img {
+      padding-bottom: 114px;
+      padding-left: 173px;
+  }
+  .contact__form p {
+    margin-right: 0px;
+  }
+
+  .catalog__img_persona {
+      background-image: url(/img/catalog/x-zag1024.png);
+    }
+
+    .projeck {
+        margin-bottom: 78px;
+    }
+
+    .contact-container {
+        padding: 46px 50px 0 50px;
+      }
+   
+    .footer__link-icon svg {
+        width: 60px;
+        height: 60px;
+
+    }
+
+  }
+  
+  @media (max-width: 950px) {
+      
+      .hero__title {
+          padding-right: 105px;
+      }
+  
+      .header__item   {
+          margin-bottom: 25px;
+      }
+      .header__item:not(:last-child) {
+          margin-bottom: 45px;
+      }
+      
+      .header__exit {
+          margin-bottom: 95px;
+      }
+      
+      .hero__title {
+          font-size: 72px;
+      }
+      
+      .hero__subtitle {
+          width: auto;
+      }
+      
+      .hero__body {
+          width: auto;
+      }
+  
+  
+  
+      .find-point-icon-active-bg.find-point:before {
+          transform: translateY(00px);
+      }
+      
+      .find-point-search {
+          opacity: 1;
+      }
+  
+      .find-point-icon {
+          transition:none;
+      }
+  
+      .find-point-icon-active .find-point-icon {
+          opacity: 1;
+      }
+      
+      .find-point__form {
+          content: '';
+          position: absolute;
+          top: 0;
+          left: 0;
+          display: flex;
+          margin-right: 10px;
+          align-items: center;
+          height: 100px;
+          width: 100%;
+          background-color: black;
+          transform: translateY(-200px);
+          z-index: 10;
+          transition: transform .5s ease;   
+      }
+  
+      .find-point__form input {
+          transform: translateX(0px);
+      }
+      
+      .find-point__form-active {
+          transform: translateX(0px);
+      }
+  
+      .find-point__body {
+          width: 100%;
+      }
+      .header-find-input {
+          width: 100%;
+      }
+  
+      .exit__find {
+          position: absolute;
+          background-color:transparent;
+          height: 30px;
+          width: 30px;
+          right: 60px;
+      }
+  
+      .exit__find:before,
+      .exit__find:after {
+          content: '';
+          position: absolute;
+          width: 100%;
+          height: 2px;
+          top: 10px;
+          left: 0px;
+          background-color: #fff;
+      }
+  
+      .exit__find:before {
+          transform: rotate(45deg);
+      }
+      .exit__find:after {
+          transform: rotate(-45deg);
+      }
+  
+      .find-point__body {
+  
+          margin: 0 100px;
+      }
+  
+      .gall-container {
+          flex-direction: column;
+      }
+  
+      .gall__text-info {
+          display: none;
+      }
+  
+      .gall__text-swiper {
+          display: block;
+      }
+  
+      .choices__list--dropdown .choices__list {
+          background-color: black;
+      }
+  
+      .gall__choise_list {
+          width: 278px;
+      }
+  
+      .gall__slider {
+          padding-top: 52px;
+      }
+      .gall__body {
+       
+          padding-bottom: 0;
+      }
+     
+      .swiper-wrapper-gall {
+          height: 595px;
+        }
+  
+      .swiper-slide-gall {
+          height: calc((100%/2) - 17px);
+        }
+  
+      .gall__text-swiper {
+          margin-top: 30px;
+      }   
+  
+      .Catalog {
+          margin-bottom: 78px;
+      }
+  
+      .catalog__info-body {
+          display: flex;
+          flex-direction: column-reverse;
+      }
+
+      .catalog__acardion_btn {
+        display: none;
+    }
+
+    .catalog__acardion_btn-mobil {
+        display: block;
+    }
+  
+      .catalog__acardion_list {
+          display: flex;
+          justify-content: space-between;
+      }
+  
+      .catalog__acardion_list li {
+          margin-right: 0;
+      }
+  
+      .catalog__list_lang {
+          padding-top: 10px;
+      }
+  
+      .catalog__item_lang:not(:last-child) {
+          margin-right: 54px;
+      }
+  
+      .catalog__subtitle_lang {
+          margin-bottom: 19px;
+      }
+  
+      .catatalog__pesona-tab-active {
+          margin-right: 0;
+          padding-right: 0;
+      }
+  
+      .catalog__info_persona {
+          padding-right: 0px;
+      }
+  
+      .catalog__persona {
+          padding-right: 0;
+      }
+  
+      .catalog__img_persona {
+          padding-bottom: 419px;
+          background-image: url(/img/catalog/x-zag768.png);
+      }
+  
+      .catalog__acardion {
+          padding-left: 0;
+          margin-bottom: 50px;
+      }
+  
+      .catalog__acardion_list {
+          max-height: 338px;
+          align-content: space-between;
+      }
+  
+      .list-zero {
+          align-items: center;
+      }
+  
+      .list-zero__img {
+          padding-bottom: 165px;
+          padding-left: 251px;
+      }
+      .list-zero__info {
+          margin-top: 0;
+      }
+      .event-swiperr {
+          margin: 0   -16.5px;
+      }
+  
+      .event-swiper-slide:not(:nth-child(-n + 2))  {
+          display: none;
+        }
+  
+      .event-swiper-slide {
+          padding: 0 16.5px;
+          margin-bottom: 53px;
+          flex: 0 0 50%;
+      }
+      
+      .event-swiper-slide__info-body {
+          padding: 0 22px 0 32px;
+      } 
+
+      .event-swiper-slide__subtitle {
+          margin-bottom: 64px;
+      }
+  
+      .edition {
+          padding-top: 92px;
+          padding-bottom: 0;
+      }
+  
+      .container-edition {
+          flex-direction: column;
+      }
+      .edition__parametr {
+          margin-bottom: 22px;
+          margin-right: 0px;
+      }
+ 
+      .edition-choises__title {
+          margin-bottom: 10px;
+      }
+
+      .swiper-wrapper-edition {
+        padding-bottom: 62px;
+    }
+    
+      .edition-choises__list {
+          display: flex;
+          flex-direction: column;
+          flex-wrap: wrap;
+          align-content: space-between;
+          margin-bottom: 33px;
+          max-height: 160px;
+      }
+      .edition-choises__item:not(:last-child) {
+          margin-bottom: 0;
+      }
+      .edition__label {
+          align-items: flex-start;
+      }
+  
+      .edition-check + span{
+          max-width: 160px;
+          line-height: 32px;
+      
+      }
+  
+      .edition-check + span +  .edition__checbox{
+          top: 10px;
+      
+      }
+
+      .swiper__nav-edition {
+          margin-left: -27px;
+      }
+  
+      .edition__swiper-body {
+          padding-bottom: 0;
+          margin: 0;
+      }
+
+      .edition__swiper {
+          padding-left: 27px;
+          max-width: 640px
+      }
+      
+      .projeck {
+          padding-top: 88px;
+          margin-bottom: 73px;
+      }
+
+      .projeck__text {
+          margin-bottom: 30px;
+          max-width: 660px;
+  
+      }
+      
+  
+  
+
+
+      .project__swiper__title {
+        margin-bottom: 29px;
+    }
+  
+    .swiper-project {
+        height: 116px;  
+    }
+
+    .contact__form {
+        flex-wrap: wrap;
+    }
+
+    .contact__form-label {
+        max-width: 100%;
+        width: auto;
+        flex:  0 0 calc(50% - 10px);
+        margin: 0;
+        margin-bottom: 15px;
+    }
+    
+    .contact__form-label:first-child {
+        margin-right: 20px;
+    }
+
+
+    .contact__form p {
+        flex:  0 0 calc(50% - 10px);
+    }
+    .contact__btn {
+        width: 98%;
+    }
+  
+  }
+  
+  @media (max-width: 767px) {
+
+
+    .swiper-gall {
+        display: flex;
+        flex-direction: column-reverse;
+        height: 426px;
+        align-items: flex-start;
+    }
+
+    .swiper-slide-gall {
+        height: 100%;
+    }
+
+    .swiper__nav-gall {
+        margin: 20px auto 0 auto;
+    }
+     
+      .swiper-wrapper-gall {
+          height: 367px;
+      }
+  
+      .catalog__choise_lang {
+            flex-direction: column;
+      }
+          
+      .catalog__acardion_list{
+           flex-direction: column;
+      }
+  
+      .catalog__acardion_list li{
+          padding: 0;
+      }
+  
+      .hero__background1{
+          background-image: url(/img/fone-hero-768.png);
+         }
+        
+        .hero__background2{
+         background-image: url(/img/hero-fone2-768.png);
+        }
+        
+        .hero__background3{
+         background-image: url(/img/hero-fone3-768.png);
+        }
+  
+       .hero__title {
+      padding-right: 5px;
+      }
+  
+      .conainer-catalog {
+          padding: 0 50px;
+      }
+  
+      .event-swiper-wrapper {
+          flex-wrap: nowrap;
+      }
+  
+      .event-swiper-slide {
+          flex: 0 0 100%;
+      }
+      .event-swiper-slide:not(:nth-child(-n + 3))  {
+          display: block;
+        }
+        .event-swiper-slide:not(:nth-child(-n + 2))  {
+          display: block;
+        }
+  
+        .event-swiper-pagination {
+          position: relative;
+          bottom: -19px !important;
+      }
+      
+      .event-swiper-pagination span {
+          width: 10px;
+          height: 10px;
+          margin-right: 11px !important;
+  
+      }
+      .swiper-pagination {
+          display: block;
+      }
+      .event_btn {
+          display: none;
+      }
+  
+      .edition-choises__item {
+          font-size: 15px;
+          flex: 1 1 33%;
+      }
+      .edition-check + span {
+          max-width: 125px;
+      }
+  
+  }
+  
+  
+  @media (max-width: 540px) {
+  
+      header {
+          margin-bottom: 55px;
+      }
+  
+      .header-container {
+          padding: 0 15px;
+      }
+      
+      .header__item:not(:last-child) {
+          margin-bottom: 10px;
+      }
+  
+      .header__item:last-child {
+          margin-bottom: 25px;
+      }
+  
+      .header__logo {
+          padding: 10px 0 12px 0;
+      }
+  
+      .header__burger {
+          height: 19px;
+          width: 17px;
+      }
+  
+      .header__burger_line-top {
+          width: 24px;
+  
+      }
+      .header__burger_line-midle {
+          top: 8px;
+          width: 14px;
+  
+      }
+      .header__burger_line-bottom {
+          top: 16px;
+          width: 8px;
+      }
+  
+      .header__body {
+          padding-top: 60px;
+          padding-left: 30px;
+      }
+  
+      .header__exit {
+          margin-bottom: 58px;
+          padding: 11px 37px;
+      }
+      .header__exit_link {
+          font-size: 12px;
+      }
+  
+      .header__link  {
+          font-size: 16px;    
+      }
+  
+      .header__list {
+          margin: 0;
+      }
+  
+      .hero {
+          background-image: url(../img/hero-fone320.jpg);
+        
+      }
+  
+      .hero__background1{
+          background-image: url(/img/hero-fone320.jpg);
+         }
+        
+        .hero__background2{
+         background-image: url(/img/hero-fone2-320.png);
+        }
+        
+        .hero__background3{
+         background-image: url(/img/hero-fone3-320.png);
+        }
+  
+      .hero__top {
+          padding: 0;
+          margin: 0;
+          margin-bottom: 34px;
+      }
+      
+      .hero__body { 
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          padding-top: 34px;
+          width: auto;
+          margin: 0;
+          text-align: center;
+      }
+      .hero__title {
+          margin-bottom: 13px;
+          width: 258px;
+          font-size: 32px;
+          line-height: 37px;
+      }
+      .hero__subtitle {
+          padding: 0 10px;
+          margin-bottom: 39px;
+          width: 284px;
+          font-weight: 400;
+          font-size: 12px;
+          line-height: 16px;
+          
+      }
+      .hero__btn {
+          margin-bottom: 47px;
+      }
+  
+      .hero__button {
+          font-size: 12px;
+          padding: 11px 16px;
+      }
+  
+      .exit__find:before,
+      .exit__find:after {
+          width: 80%;
+      }
+
+      .hero_button-icon svg {
+        width: 16px;
+        height: 16px;
+      }
+  
+  .find-point-search {
+      height: 19px;
+      width: 18px;
+  }
+
+  .find-point__form {
+      height: 70px;
+  }
+  
+  .find-point__form-active {
+      height: 75px;
+      background-color: rgba(0,0,0,0.9)
+  }
+  
+
+  .find-point__form {
+      margin-bottom: 20px;
+  }
+
+  .find-point__body {
+    margin: 25px 65px 0 65px;
+  }
+
+  .exit__find {
+      right: 7px;
+      top: 12px;   
+  }
+  
+      .container-info-body {
+          padding: 0 15px;
+      }
+      .info__title {
+          margin-bottom: 17px;
+          font-size: 28px;
+      }
+      .info__subtitle {
+          font-size: 14px;
+          line-height: 28px;
+      }
+  
+      .info {
+          margin-bottom: 41px;
+      }
+  
+      .gall {
+          padding: 57px 0 0 0px;
+      }
+  
+  
+      .gall__body {
+        
+          padding-bottom: 0;
+      }
+  
+      .gall__info {
+          width: auto;
+          margin-right: 0;
+      }
+  
+      .gall__titile {
+          margin-bottom: 23px;
+          font-size: 28px;
+      }
+  
+      .gall__filer {
+          margin-bottom: 14px;
+      }
+  
+      .gall__choise_list {
+          width: 289px;
+      }
+  
+      .gall-container {
+          padding: 0 15px 0 15px ;
+      }
+  
+      .swiper-gall {
+          height: 418px;
+      }
+  
+      .gall__slider {
+          padding-top: 40px;
+      }
+  
+      .gall__text-swiper {
+          padding-bottom: 40px;
+          margin-top: 19px;
+      }
+  
+      .Catalog {
+          padding-top: 55px;
+          margin-bottom: 58px;
+      }
+  
+      .conainer-catalog {
+          padding: 0 15px;
+      }
+      
+      .catalog__title {
+          font-size: 28px;
+      }
+  
+      .catalog__item_lang {
+          height: 33px;
+          width: 33px;
+          background-size: cover;
+      }
+  
+      .catalog__item_lang:not(:last-child) {
+      margin-right: 31px;
+      }
+  
+      .catalog__list_lang {
+          padding-top: 15px;
+      }
+  
+      .catalog__subtitle_lang {
+          display: none;
+      }
+  
+      .ui-state-active {
+          color: #333333;
+      }
+      .ui-accordion .ui-accordion-header {
+          font-size: 18px;
+          padding: 17px 0;
+          
+      }
+      .catalog__choise_lang {
+          margin-bottom: 22px;
+      }
+  
+      .catalog__item_lang.active:before { 
+          right: -5px;
+          bottom: -5px;
+          left: -5px;
+          top: -5px;
+      }
+  
+      .ui-icon {
+          width: 30px;
+          height: 30px;
+          background-size: cover;
+      }
+  
+      .catalog__acardion_list  {
+          min-height: 808px;
+          padding: 20px 0;
+      }
+  
+      .catalog__acardion {
+         margin-bottom: 0;
+      }
+      
+      .catalog__acardion-arrow {
+          display: none;
+      }
+      .catalog__acardion-arrow-520 {
+          display: block;
+      }
+  
+      .ui-accordion-header svg circle  {
+          stroke: none
+      }
+  
+      .ui-state-active svg {
+          transform: rotate(180deg);
+          outline-offset: -2px ;
+          outline: 0px solid #9D5CD0;
+          border-radius: 50%;  
+      }
+  
+      .ui-state-active svg {
+          fill:#D1A9F0;
+      }
+      
+      .ui-state-active svg {
+          outline-offset: -2px;
+          outline: 2px solid #9D5CD0;
+      }
+  
+      .ui-widget {
+          margin-bottom: 52px;
+      }
+    
+  
+  
+      .catatalog__pesona-tab-active {
+          padding-top: 48px;
+      }
+  
+      .catalog__img_persona {
+          padding-bottom: 181px;
+          margin-bottom: 27px;
+          background-image: url(/img/catalog/x-zag320.png);
+      }
+      .catalog__info_persona {
+          padding-right: 1px;
+      }
+  
+      .list-zero__img {
+          padding-left: 76px;
+          padding-bottom: 118px;
+      }
+
+      .list-zero__title {
+          font-size: 18px;
+      }
+
+      .list-zero__subtitle {
+          font-size: 16px;
+      }
+  
+      .event {
+          margin-bottom: 70px;
+      }
+
+      .container-event {
+          padding: 0 15px;
+      }
+
+      .event__title {
+          margin-bottom: 15px;
+          font-weight: 400;
+          font-size: 28px;
+      }
+
+      .event-swiper {
+          margin: 0;
+      }
+
+      .event-swiper-slide {
+          margin-bottom: 0;
+          padding: 0;
+      }
+ 
+      .event-swiper-slide__body-all {
+          display: block;
+          flex: 0 0 100%
+  
+      }
+      .event-swiper-slide__adress {
+          padding: 13px 10px 6px;
+      }
+      .event-swiper-slide__info-body {
+          padding: 0 0 0 26px;
+      }
+      .event-swiper-slide__title {
+          margin-bottom: 36px;
+      }
+      .event-swiper-slide__subtitle {
+          margin-bottom: 67px;
+          padding-right: 35px;    
+      }
+
+      .event-swiper-slide__span {
+          padding-left: 28px;
+      }
+   
+  
+      .edition__parametr-mobil {
+          display: block;
+      }
+      
+      .edition__parametr{
+          display: none;
+      }
+  
+      .edition {
+          padding-top: 55px;
+      }
+
+      .edition__swiper {
+        display: none;
+      }
+
+      .edition__swiper_mobil{
+          display: flex;
+          flex-wrap: wrap;
+          margin: 0 -15px;
+      }
+
+    
+    .edition-card__body_mobil {
+        padding: 0 15px;
+        flex: 0 0 50%;
+    }
+
+
+    .edition-card__body_mobil {
+        margin-bottom: 50px;
+    }
+
+    .edition-card__img_mobil {
+        margin-bottom: 12px;
+    }
+
+    .edition-card__img_mobil img {
+        width: 100%;
+        
+    }
+
+    .edition-card__info_mobil {
+        margin-bottom: 12px;
+        color: #fff;
+        font-size: 12px;
+    }
+
+    .edition-card-info__name-persona_mobil {
+        margin-bottom: 6px;
+    }
+
+    .edition-card-info__name_mobil {
+        margin-bottom: 5px;
+        font-weight: 700;
+    }
+
+    .edition-card-info__persona_mobil {
+        font-weight: 400;
+    }
+    .edition-card__button_mobil {
+        padding: 11px 15px;
+        width: 100%;
+        font-size: 12px;
+        font-weight: 700;
+        background-color: transparent;
+        border-radius: 100px;
+        color: #fff;
+        border: 2px solid var(--color-purple);
+    }
+
+    .projeck {
+        padding-top: 55px;
+        margin-bottom: 46px;
+    }
+    .container {
+    }
+    .container-project {
+        padding: 0 15px;
+    }
+    .projeck__title {
+        margin-bottom: 19px;
+        font-size: 28px;
+    }
+
+    .project__swiper__title {
+        margin-bottom: 13px;
+    }
+  
+    .swiper-project {
+        margin: 0 17px;
+        height: 75px;  
+    }
+
+    .projeck__text {
+        margin-bottom: 17px;
+    }
+
+    .project__text-link {
+        font-size: 16px;
+        font-weight: 600;
+    }
+
+    .project__swiper__title {
+        font-size: 18px;
+        font-weight: 600;
+    }
+  
+
+
+      .container-edition {
+          padding: 0 15px;
+      }
+
+      .edition__swiper {
+        padding-left: 0;
+      }
+      .swiper__nav-edition {
+          margin-left: 0;
+      }
+
+      .edition__title {
+          font-size: 28px;
+          margin-bottom: 16px;
+      }
+      .edition-price__title{
+          margin-bottom: 15px;
+      }
+
+      .edition-price__body {
+          margin-bottom: 49px;
+      }
+     
+      .h2-click {
+          font-size: 16px;
+          font-weight: 700;
+          line-height: 36px;
+      }
+      .checkbox-list {
+          margin-bottom: 26px;
+      }
+      
+      .custom-checkbox--text {
+          font-size: 16px;
+          line-height: 39px;
+      }
+
+      .contact__border {
+          border: none;
+      }
+
+        .footer__body {
+            flex-direction: column-reverse;
+        }
+        .footer__logo {
+            margin-bottom: 20px;
+        }
+        .footer__list-icon {
+            padding: 20px 0;
+        }
+
+        .footer__logo svg{
+            width: 100px;
+            height: 20px;
+        }
+
+        .contact-container {
+        padding: 0 15px;
+        }
+
+        .contact__left {
+            margin-bottom: 20px;
+        }
+
+        .ptitle-from__top {
+            margin-bottom: 5px;
+            font-size: 18px;
+        }
+
+        .title-from__bottom {
+            font-size: 14px;
+        }
+
+        .contact__form {
+            flex-direction: column;
+            padding-top: 18px;
+        }
+
+        .contact__form-label:first-child {
+            margin-right: 0;
+        }
+
+        .contact__form-label {
+            margin-right: 0;
+            margin-bottom: 21px;
+        }
+
+        .contact-input {
+            line-height: 38px;
+        }
+
+        .contact__btn {
+            padding: 0;
+            width: 44%;
+            font-size: 12px;
+        }
+        .contact__connection {
+            padding-top: 30px;
+        }
+        .contact__massage-text {
+            margin-bottom: 12px;
+            font-weight: 400;
+            font-size: 18px;
+        }
+
+        .contact__seti-icon svg {
+            width: 50px;
+            height: 50px;
+        }
+        .footer__list-icon {
+            padding: 20px 0 16px 0;
+        }
+
+        .contact__right {
+            height: 320px;
+        }
+        .footer__link-icon svg {
+            width: 50px;
+            height: 50px;
+        }
+        .footer__logo svg {
+            width: 100px;
+            height: 23px;
+        }
+}
+  

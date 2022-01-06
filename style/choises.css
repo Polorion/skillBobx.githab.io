@@ -1,0 +1,127 @@
+.ui-accordion-header:active p {
+    color:#7943A4;
+}
+
+.ui-icon {
+display: none;
+}
+
+.ui-state-default {
+    font-family: 'Open Sans', sans-serif !important;
+    border: none;
+    background-color: #fff;
+}
+
+.ui-widget-content {
+    font-family: 'Open Sans', sans-serif !important;
+    border: none;
+}
+
+.ui-helper-reset {
+}
+
+.ui-accordion .ui-accordion-header{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 28px 0 31px;
+    margin: 0;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.ui-accordion-header:before,
+.ui-accordion-header:after {
+    content:'';
+    position: absolute;
+    left: 0;
+    height: 1px;
+    width: 100%;
+    background-color: #CACACA;
+    transition: background-color .3s ease;
+}
+
+.ui-accordion-header:after {
+    bottom: 0;
+}
+.ui-accordion-header:before{
+    top: -1px;
+}
+
+.ui-accordion-header p {
+    transition: all .3s ease;
+}
+
+.ui-accordion-header svg {
+    transition: transform .3s ease;
+}
+
+.ui-state-hover.ui-accordion-header:before,
+.ui-state-hover.ui-accordion-header:after {
+    z-index: 1;
+    background-color: var(--color-purple)
+}
+
+.ui-state-active.ui-accordion-header:before,
+.ui-state-active.ui-accordion-header:after {
+    z-index: 1;
+    background-color: var(--active-color);
+}
+
+.ui-state-active span {
+    color : var(--active-color);
+}
+
+.ui-state-hover span {
+    color: var(--color-purple);
+}
+
+.ui-state-active svg {
+    transform: rotate(180deg);
+    outline-offset: -2px ;
+    outline: 2px solid  ;
+    border-radius: 50%;
+    
+}
+.ui-state-active svg path {
+    fill: #D1A9F0;
+}
+
+.ui-state-active svg  {
+    outline: 2px solid var(--color-purple);
+    fill: #D1A9F0;
+}
+
+.ui-state-hover svg path {
+    fill: #D1A9F0;
+}
+
+
+.ui-accordion .ui-accordion-content {
+    padding: 0;
+}
+
+
+
+.catalog__acardion-age + span svg path:nth-child(2){
+    stroke: none; 
+}
+
+.ui-state-focus .catalog__acardion-age{
+    background-color: var(--color-purple);
+    color: #fff;
+
+}
+
+.ui-state-focus .catalog__acardion-arrow svg path {
+    fill:#D1A9F0;
+}
+
+
+/* 
+.catalog__acardion-arrow svg path{
+    transition: all .3s ease;
+    fill:#ECECEC;
+
+} */
